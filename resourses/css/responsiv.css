@@ -1,0 +1,166 @@
+@media only screen and (max-width:1024px) {
+    box-sizing: border-box;
+    .row {
+        margin: 0 1.5rem;
+    }
+    .hero-text-box {
+        width: 90%;
+    }
+    .main-nav{
+        display: none}
+    html{
+        font-size: 56%;
+        
+    }
+    header{
+        height: 60vh;
+    }
+    h1 {
+    width: 80%;
+    margin-left: 10%;
+    font-size: 3.5rem;
+}
+  
+    h3{
+        font-size: 2.2rem;
+    }
+  
+    .span_1_of_2:nth-child(3) {
+        margin-left: 0;
+    }
+    .portfolio-section img{
+        width: 100%
+    }
+    .client-photo{
+        width: 100%;
+        float: none;
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+   .client-review {
+    width: 75%;
+    float: none;
+    text-align: center;
+    margin-left: 10%;
+}
+    .contact-section form {
+
+        width: 100%;
+        margin-left: 0%;
+    }
+    .mobile-menu span{
+        display: block;
+    }
+}
+
+
+@media only screen and (max-width:980px){
+     
+    html {
+        font-size: 57%;
+
+    }
+    .span_1_of_4 {
+        width: 47%;
+    }
+    .box p{
+        font-size: 1.5rem;
+    }
+     .span_1_of_4:nth-child(3) {
+        margin-left: 0;
+    }
+   
+       
+    h1 {
+        width: 80%;
+        margin-left: 10%;
+        font-size: 3.5rem
+    }
+    h2{
+        font-size: 3rem;
+    }
+}
+
+@media only screen and (max-width:768px) {
+    
+     html {
+        font-size: 57%;
+
+    }
+   .little-description {
+       width: 70%;
+       margin-left: 15%;
+   }
+    .services-section .box p {
+    font-size: 1.6rem;
+    width: 80%;
+    margin-left: 10%;
+}
+    
+   .span_1_of_4:nth-child(3) {
+        margin-left: 0;
+    }
+   
+    .client-review p {
+        width: 40rem;
+    }
+
+    h1 {
+        font-size: 3.5rem;
+    }
+
+    h2 {
+        font-size: 3rem;
+    }
+
+    h3 {
+        font-size: 2rem;
+    }
+    }
+@media only screen and (max-width:480px) {
+    .span_1_of_4 {
+        width: 100%;
+
+    }
+
+    .client-review p {
+        width: 100%;
+        float: none;
+        text-align: center;
+        margin-left: 0%;
+    }
+
+    .testimonial-section .col:nth-child(3),
+    .testimonial-section .col:nth-child(4) {
+        margin-top: 4rem;
+    }
+
+    .little-description {
+        width: 100%;
+        margin-left: 0%;
+    }
+
+    h1 {
+        font-size: 3rem;
+    }
+
+    h2 {
+        font-size: 2.8rem;
+    }
+
+    h3 {
+        font-size: 2rem;
+    }
+   
+
+}
+@media only screen and (min-width:350px) {
+    html{
+        font-size: 40%;
+    }
+    .mobile-menu span{
+        margin-top: 4rem;
+        margin-right: 5rem
+    }
+}
+    
